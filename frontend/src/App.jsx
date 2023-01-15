@@ -1,14 +1,13 @@
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Hero from './components/Hero';
+import { Route, Routes } from 'react-router-dom';
+import Homepage from './pages/Homepage';
+import Projectspage from './pages/Projectspage';
 
 function App() {
   return (
-    <div className="w-screen mx-auto h-screen">
-      <Header />
-      <Hero />
-      <Footer />
-    </div>
+    <Routes>
+      <Route path="/" element={<Homepage />} />
+      <Route path="/projects" element={<Projectspage />} />
+    </Routes>
   );
 }
 

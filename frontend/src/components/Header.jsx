@@ -11,8 +11,7 @@ const Header = () => {
       </a>
       <div className="flex gap-4 items-center sm:gap-8">
         <a href="/">Home</a>
-        <a href="/skills">Skills</a>
-        <a href="/contact">Contact</a>
+        <a href="/projects">Projects</a>
       </div>
     </div>
   );

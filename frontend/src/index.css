@@ -9,3 +9,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.tagcloud--item:hover {
+  color: #ff975c;
+  cursor: pointer;
+  font-weight: 700;
+}

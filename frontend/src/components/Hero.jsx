@@ -33,17 +33,11 @@ const Hero = () => {
           experience, I am confident in my ability to deliver exceptional
           results for any project.
         </div>
-        <a
-          href="/contact"
-          className="rounded-md bg-[#ffd6bf] font-bold py-1 px-2 sm:py-2 sm:px-4"
-        >
-          Contact me
-        </a>
         <div className="sm:flex sm:gap-4">
           <div className="rounded-md border border-black py-1 px-2 w-fit my-4 sm:py-2 sm:px-4">
             1 successful projects
           </div>
-          <a href="/skills" className="w-fit flex items-center gap-2">
+          <a href="/projects" className="w-fit flex items-center gap-2">
             View projects
             <img src={Arrow} alt="The arrow icon" />
           </a>
