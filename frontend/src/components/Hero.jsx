@@ -41,7 +41,7 @@ const Hero = () => {
         </a>
         <div className="sm:flex sm:gap-4">
           <div className="rounded-md border border-black py-1 px-2 w-fit my-4 sm:py-2 sm:px-4">
-            0 successful projects
+            1 successful projects
           </div>
           <a href="/skills" className="w-fit flex items-center gap-2">
             View projects
@@ -50,7 +50,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="flex flex-col items-center mt-16">
-        <div>
+        <div className="lg:h-[424px] lg:w-[424px]">
           <Canvas
             camera={{
               fov: 35,
