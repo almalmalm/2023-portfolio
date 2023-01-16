@@ -28,7 +28,7 @@ const Hero = () => {
         </h1>
         <div className="my-4">
           I am a highly motivated and multitalented individual with extensive
-          experience in UI/UX design, full-stack development, quality assurance
+          experience in UI/UX design, front end development, quality assurance
           testing. With my diverse set of skills and experience, I am confident
           in my ability to deliver exceptional results for any project.
         </div>
