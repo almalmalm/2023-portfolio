@@ -24,14 +24,13 @@ const Hero = () => {
         <h1 className="text-base font-bold mt-16 sm:text-2xl lg:text-3xl">
           Hey, I’m Leo.
           <br />
-          Freelance UI/UX Designer | Fullstack developer | QA | 3D modeler.
+          Front end developer.
         </h1>
         <div className="my-4">
           I am a highly motivated and multitalented individual with extensive
           experience in UI/UX design, full-stack development, quality assurance
-          testing, and 3D modeling. With my diverse set of skills and
-          experience, I am confident in my ability to deliver exceptional
-          results for any project.
+          testing. With my diverse set of skills and experience, I am confident
+          in my ability to deliver exceptional results for any project.
         </div>
         <div className="sm:flex sm:gap-4">
           <div className="rounded-md border border-black py-1 px-2 w-fit my-4 sm:py-2 sm:px-4">
