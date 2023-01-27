@@ -7,7 +7,7 @@ const Skillspage = () => {
     <div className="w-screen mx-auto h-screen flex flex-col justify-between">
       <Header />
       <div className="text-sm mt-2 mx-4 sm:text-base sm:mt-16 sm:mx-8 lg:mx-16 grow">
-        <h1 className="font-bold text-base sm:text-3xl mb-8">Skills</h1>
+        <h1 className="font-bold text-base sm:text-3xl mt-16 mb-4">Skills</h1>
         <ol className="flex gap-4 flex-wrap">
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Html</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Css</li>
