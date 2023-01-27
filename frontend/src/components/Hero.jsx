@@ -24,18 +24,15 @@ const Hero = () => {
         <h1 className="text-base font-bold mt-16 sm:text-2xl lg:text-3xl">
           Hey, I’m Leo.
           <br />
-          Front end developer.
+          Frontend developer.
         </h1>
         <div className="my-4">
-          I am a highly motivated and multitalented individual with extensive
-          experience in UI/UX design, front end development, quality assurance
-          testing. With my diverse set of skills and experience, I am confident
-          in my ability to deliver exceptional results for any project.
+          I have a strong understanding of React, as well as HTML, CSS, and
+          JavaScript. I am also familiar with other frontend technologies and
+          frameworks and have experience with debugging. Additionally, I have
+          excellent communication and problem-solving skills.
         </div>
         <div className="sm:flex sm:gap-4">
-          <div className="rounded-md border border-black py-1 px-2 w-fit my-4 sm:py-2 sm:px-4">
-            1 successful projects
-          </div>
           <a href="/projects" className="w-fit flex items-center gap-2">
             View projects
             <img src={Arrow} alt="The arrow icon" />

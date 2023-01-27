@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <div className="my-16">
       <h1 className="font-bold text-base sm:text-3xl">Projects</h1>
-      <div className="mt-4 flex gap-4 flex-col">
+      <div className="mt-4 flex gap-4 flex-wrap">
         <a
           href="https://byte-todo-lkalinin.onrender.com/"
           target="_blank"
