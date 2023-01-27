@@ -45,6 +45,14 @@ const Projects = () => {
         >
           Calculator
         </a>
+        <a
+          href="https://lkalinin-landing-02.onrender.com/"
+          target="_blank"
+          rel="noreferrer"
+          className="bg-[#ffd6bf] rounded-md py-2 px-4"
+        >
+          The modal window demonstration
+        </a>
       </div>
     </div>
   );
