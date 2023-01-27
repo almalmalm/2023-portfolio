@@ -27,7 +27,7 @@ const Projects = () => {
           rel="noreferrer"
           className="bg-[#ffd6bf] rounded-md py-2 px-4"
         >
-          Movies App
+          The carousel demonstration
         </a>
         <a
           href="https://maria-psycholog.netlify.app/"
