@@ -22,12 +22,28 @@ const Projects = () => {
           Landing for french fashion store
         </a>
         <a
+          href="https://lkalinin-movies.onrender.com/"
+          target="_blank"
+          rel="noreferrer"
+          className="bg-[#ffd6bf] rounded-md py-2 px-4"
+        >
+          Movies App
+        </a>
+        <a
           href="https://maria-psycholog.netlify.app/"
           target="_blank"
           rel="noreferrer"
           className="bg-[#ffd6bf] rounded-md py-2 px-4"
         >
-          maria-psycholog
+          First simple website for customer
+        </a>
+        <a
+          href="https://lkalinin-calculator.onrender.com/"
+          target="_blank"
+          rel="noreferrer"
+          className="bg-[#ffd6bf] rounded-md py-2 px-4"
+        >
+          Calculator
         </a>
       </div>
     </div>
