@@ -13,6 +13,8 @@ const Skillspage = () => {
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Css</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">JavaScript</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">TypeScript</li>
+          <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Next</li>
+          <li className="bg-[#ffd6bf] rounded-md py-2 px-4">React</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">React</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">RTK</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">RTK Query</li>

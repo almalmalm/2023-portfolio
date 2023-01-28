@@ -6,6 +6,14 @@ const Projects = () => {
       <h1 className="font-bold text-base sm:text-3xl">Projects</h1>
       <div className="mt-4 flex gap-4 flex-wrap">
         <a
+          href="https://lkalinin-movies.vercel.app/"
+          target="_blank"
+          rel="noreferrer"
+          className="bg-[#ffd6bf] rounded-md py-2 px-4"
+        >
+          The movie app
+        </a>
+        <a
           href="https://byte-todo-lkalinin.onrender.com/"
           target="_blank"
           rel="noreferrer"
