@@ -15,9 +15,9 @@ const Skillspage = () => {
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">TypeScript</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Next</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">React</li>
-          <li className="bg-[#ffd6bf] rounded-md py-2 px-4">React</li>
-          <li className="bg-[#ffd6bf] rounded-md py-2 px-4">RTK</li>
-          <li className="bg-[#ffd6bf] rounded-md py-2 px-4">RTK Query</li>
+          <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Redux</li>
+          <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Firebase</li>
+          <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Chakra UI</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Material UI</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Node.js</li>
           <li className="bg-[#ffd6bf] rounded-md py-2 px-4">Figma</li>
